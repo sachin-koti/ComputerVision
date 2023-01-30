@@ -9,4 +9,4 @@ c) to plot facial recognition using openCV and dlib with Python as the programmi
 
 d) a notebook to detect shapes.
 
-e) the helper utilities have also been uploded here.
+e) the helper utilities(imutils.py and face_utils.py) are also uploded here.
